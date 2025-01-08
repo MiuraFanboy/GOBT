@@ -1,0 +1,3002 @@
+[
+    {
+      "Ranking": 1,
+      "Title": "Fullmetal Alchemist (TV)",
+      "Rating": 8.72,
+      "Votes": 13514
+    },
+    {
+      "Ranking": 2,
+      "Title": "Death Note (TV)",
+      "Rating": 8.86,
+      "Votes": 13093
+    },
+    {
+      "Ranking": 3,
+      "Title": "Cowboy Bebop (TV)",
+      "Rating": 8.93,
+      "Votes": 12424
+    },
+    {
+      "Ranking": 4,
+      "Title": "Spirited Away (movie)",
+      "Rating": 8.96,
+      "Votes": 10693
+    },
+    {
+      "Ranking": 5,
+      "Title": "Princess Mononoke (movie)",
+      "Rating": 8.92,
+      "Votes": 9957
+    },
+    {
+      "Ranking": 6,
+      "Title": "(The) Melancholy of Haruhi Suzumiya (TV)",
+      "Rating": 8.56,
+      "Votes": 10220
+    },
+    {
+      "Ranking": 7,
+      "Title": "Elfen Lied (TV)",
+      "Rating": 8.29,
+      "Votes": 10524
+    },
+    {
+      "Ranking": 8,
+      "Title": "Neon Genesis Evangelion (TV)",
+      "Rating": 8.32,
+      "Votes": 10359
+    },
+    {
+      "Ranking": 9,
+      "Title": "Code Geass: Lelouch of the Rebellion (TV)",
+      "Rating": 8.85,
+      "Votes": 9301
+    },
+    {
+      "Ranking": 10,
+      "Title": "Bleach (TV)",
+      "Rating": 7.94,
+      "Votes": 9232
+    },
+    {
+      "Ranking": 11,
+      "Title": "Code Geass: Lelouch of the Rebellion R2 (TV)",
+      "Rating": 9.01,
+      "Votes": 7985
+    },
+    {
+      "Ranking": 12,
+      "Title": "FLCL (OAV)",
+      "Rating": 8.18,
+      "Votes": 8756
+    },
+    {
+      "Ranking": 13,
+      "Title": "Naruto (TV)",
+      "Rating": 7.52,
+      "Votes": 9380
+    },
+    {
+      "Ranking": 14,
+      "Title": "Samurai Champloo (TV)",
+      "Rating": 8.53,
+      "Votes": 8017
+    },
+    {
+      "Ranking": 15,
+      "Title": "Trigun (TV)",
+      "Rating": 8.37,
+      "Votes": 8048
+    },
+    {
+      "Ranking": 16,
+      "Title": "Gurren Lagann (TV)",
+      "Rating": 8.73,
+      "Votes": 7065
+    },
+    {
+      "Ranking": 17,
+      "Title": "Rurouni Kenshin: Trust & Betrayal (OAV)",
+      "Rating": 8.91,
+      "Votes": 6702
+    },
+    {
+      "Ranking": 18,
+      "Title": "Howl's Moving Castle (movie)",
+      "Rating": 8.62,
+      "Votes": 6930
+    },
+    {
+      "Ranking": 19,
+      "Title": "Full Metal Panic! (TV)",
+      "Rating": 8.12,
+      "Votes": 7270
+    },
+    {
+      "Ranking": 20,
+      "Title": "Ouran High School Host Club (TV)",
+      "Rating": 8.52,
+      "Votes": 6772
+    },
+    {
+      "Ranking": 21,
+      "Title": "Fullmetal Alchemist: Brotherhood (TV)",
+      "Rating": 9.09,
+      "Votes": 6080
+    },
+    {
+      "Ranking": 22,
+      "Title": "Clannad (TV)",
+      "Rating": 8.58,
+      "Votes": 6306
+    },
+    {
+      "Ranking": 23,
+      "Title": "Fruits Basket (TV 1/2001)",
+      "Rating": 8.13,
+      "Votes": 6401
+    },
+    {
+      "Ranking": 24,
+      "Title": "Akira (movie)",
+      "Rating": 7.95,
+      "Votes": 6512
+    },
+    {
+      "Ranking": 25,
+      "Title": "Cowboy Bebop: The Movie",
+      "Rating": 8.44,
+      "Votes": 6062
+    },
+    {
+      "Ranking": 26,
+      "Title": "Chobits (TV)",
+      "Rating": 7.63,
+      "Votes": 6689
+    },
+    {
+      "Ranking": 27,
+      "Title": "Full Metal Panic? Fumoffu (TV)",
+      "Rating": 8.39,
+      "Votes": 6069
+    },
+    {
+      "Ranking": 28,
+      "Title": "5 Centimeters Per Second (movie)",
+      "Rating": 8.67,
+      "Votes": 5845
+    },
+    {
+      "Ranking": 29,
+      "Title": "Rurouni Kenshin (TV 1996)",
+      "Rating": 8.36,
+      "Votes": 5998
+    },
+    {
+      "Ranking": 30,
+      "Title": "(The) Girl Who Leapt Through Time (movie)",
+      "Rating": 8.66,
+      "Votes": 5588
+    },
+    {
+      "Ranking": 31,
+      "Title": "Ghost in the Shell (movie)",
+      "Rating": 8.23,
+      "Votes": 5868
+    },
+    {
+      "Ranking": 32,
+      "Title": "Clannad After Story (TV)",
+      "Rating": 8.85,
+      "Votes": 5375
+    },
+    {
+      "Ranking": 33,
+      "Title": "Hellsing (TV)",
+      "Rating": 7.64,
+      "Votes": 6181
+    },
+    {
+      "Ranking": 34,
+      "Title": "Final Fantasy VII: Advent Children (movie)",
+      "Rating": 8,
+      "Votes": 5894
+    },
+    {
+      "Ranking": 35,
+      "Title": "Azumanga Daioh (TV)",
+      "Rating": 8.38,
+      "Votes": 5592
+    },
+    {
+      "Ranking": 36,
+      "Title": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
+      "Rating": 7.99,
+      "Votes": 5692
+    },
+    {
+      "Ranking": 37,
+      "Title": "Ghost in the Shell: Stand Alone Complex (TV)",
+      "Rating": 8.51,
+      "Votes": 5239
+    },
+    {
+      "Ranking": 38,
+      "Title": "Nausicaä of the Valley of the Wind (movie)",
+      "Rating": 8.68,
+      "Votes": 5138
+    },
+    {
+      "Ranking": 39,
+      "Title": "Mushi-Shi (TV)",
+      "Rating": 8.8,
+      "Votes": 5050
+    },
+    {
+      "Ranking": 40,
+      "Title": "Darker than Black (TV)",
+      "Rating": 8.3,
+      "Votes": 5321
+    },
+    {
+      "Ranking": 41,
+      "Title": "Steins;Gate (TV)",
+      "Rating": 9.08,
+      "Votes": 4860
+    },
+    {
+      "Ranking": 42,
+      "Title": "Fate/stay night (TV)",
+      "Rating": 7.51,
+      "Votes": 5860
+    },
+    {
+      "Ranking": 43,
+      "Title": "Claymore (TV)",
+      "Rating": 8.17,
+      "Votes": 5334
+    },
+    {
+      "Ranking": 44,
+      "Title": "Toradora! (TV)",
+      "Rating": 8.47,
+      "Votes": 5072
+    },
+    {
+      "Ranking": 45,
+      "Title": "Inuyasha (TV)",
+      "Rating": 7.29,
+      "Votes": 5875
+    },
+    {
+      "Ranking": 46,
+      "Title": "Castle in the Sky (movie)",
+      "Rating": 8.53,
+      "Votes": 4965
+    },
+    {
+      "Ranking": 47,
+      "Title": "Full Metal Panic! The Second Raid (TV)",
+      "Rating": 8.42,
+      "Votes": 5021
+    },
+    {
+      "Ranking": 48,
+      "Title": "Black Lagoon (TV)",
+      "Rating": 8.29,
+      "Votes": 5076
+    },
+    {
+      "Ranking": 49,
+      "Title": "Blood+ (TV)",
+      "Rating": 7.98,
+      "Votes": 5224
+    },
+    {
+      "Ranking": 50,
+      "Title": "Angel Beats! (TV)",
+      "Rating": 8.53,
+      "Votes": 4874
+    },
+    {
+      "Ranking": 51,
+      "Title": "Neon Genesis Evangelion: The End of Evangelion (movie)",
+      "Rating": 8.33,
+      "Votes": 4968
+    },
+    {
+      "Ranking": 52,
+      "Title": "My Neighbor Totoro (movie)",
+      "Rating": 8.65,
+      "Votes": 4775
+    },
+    {
+      "Ranking": 53,
+      "Title": "Grave of the Fireflies (movie)",
+      "Rating": 8.69,
+      "Votes": 4656
+    },
+    {
+      "Ranking": 54,
+      "Title": "Dragon Ball Z (TV)",
+      "Rating": 7.17,
+      "Votes": 5638
+    },
+    {
+      "Ranking": 55,
+      "Title": "Eureka Seven (TV)",
+      "Rating": 8.3,
+      "Votes": 4762
+    },
+    {
+      "Ranking": 56,
+      "Title": "Air (TV)",
+      "Rating": 7.95,
+      "Votes": 4906
+    },
+    {
+      "Ranking": 57,
+      "Title": "Berserk (TV 1997)",
+      "Rating": 8.45,
+      "Votes": 4570
+    },
+    {
+      "Ranking": 58,
+      "Title": "Love Hina (TV)",
+      "Rating": 7.4,
+      "Votes": 5218
+    },
+    {
+      "Ranking": 59,
+      "Title": "Last Exile (TV)",
+      "Rating": 8.33,
+      "Votes": 4541
+    },
+    {
+      "Ranking": 60,
+      "Title": "When They Cry - Higurashi (TV)",
+      "Rating": 8.09,
+      "Votes": 4632
+    },
+    {
+      "Ranking": 61,
+      "Title": "GTO: Great Teacher Onizuka (TV)",
+      "Rating": 8.66,
+      "Votes": 4270
+    },
+    {
+      "Ranking": 62,
+      "Title": "Baccano! (TV)",
+      "Rating": 8.66,
+      "Votes": 4266
+    },
+    {
+      "Ranking": 63,
+      "Title": "Wolf's Rain (TV)",
+      "Rating": 7.94,
+      "Votes": 4521
+    },
+    {
+      "Ranking": 64,
+      "Title": "Welcome to the NHK (TV)",
+      "Rating": 8.5,
+      "Votes": 4189
+    },
+    {
+      "Ranking": 65,
+      "Title": "Sword Art Online (TV)",
+      "Rating": 7.34,
+      "Votes": 4828
+    },
+    {
+      "Ranking": 66,
+      "Title": "Serial Experiments Lain (TV)",
+      "Rating": 7.89,
+      "Votes": 4482
+    },
+    {
+      "Ranking": 67,
+      "Title": "Shakugan no Shana (TV)",
+      "Rating": 8.01,
+      "Votes": 4389
+    },
+    {
+      "Ranking": 68,
+      "Title": "Haibane Renmei (TV)",
+      "Rating": 8.47,
+      "Votes": 4113
+    },
+    {
+      "Ranking": 69,
+      "Title": "One Piece (TV)",
+      "Rating": 8.15,
+      "Votes": 4260
+    },
+    {
+      "Ranking": 70,
+      "Title": "Attack on Titan (TV)",
+      "Rating": 8.33,
+      "Votes": 4142
+    },
+    {
+      "Ranking": 71,
+      "Title": "Kiki's Delivery Service (movie)",
+      "Rating": 8.28,
+      "Votes": 4137
+    },
+    {
+      "Ranking": 72,
+      "Title": "Naruto Shippūden (TV)",
+      "Rating": 7.89,
+      "Votes": 4336
+    },
+    {
+      "Ranking": 73,
+      "Title": "(The) Vision of Escaflowne (TV)",
+      "Rating": 8.08,
+      "Votes": 4169
+    },
+    {
+      "Ranking": 74,
+      "Title": "Samurai 7 (TV)",
+      "Rating": 8.16,
+      "Votes": 4031
+    },
+    {
+      "Ranking": 75,
+      "Title": "Soul Eater (TV)",
+      "Rating": 8.11,
+      "Votes": 3991
+    },
+    {
+      "Ranking": 76,
+      "Title": "Ergo Proxy (TV)",
+      "Rating": 7.99,
+      "Votes": 4041
+    },
+    {
+      "Ranking": 77,
+      "Title": "Black Lagoon: The Second Barrage (TV)",
+      "Rating": 8.44,
+      "Votes": 3818
+    },
+    {
+      "Ranking": 78,
+      "Title": "Spice and Wolf (TV)",
+      "Rating": 8.37,
+      "Votes": 3845
+    },
+    {
+      "Ranking": 79,
+      "Title": "School Rumble (TV)",
+      "Rating": 8.25,
+      "Votes": 3898
+    },
+    {
+      "Ranking": 80,
+      "Title": "Lucky Star (TV)",
+      "Rating": 8,
+      "Votes": 3996
+    },
+    {
+      "Ranking": 81,
+      "Title": "Eden of the East (TV)",
+      "Rating": 8.37,
+      "Votes": 3804
+    },
+    {
+      "Ranking": 82,
+      "Title": "Kanon (TV 2/2006)",
+      "Rating": 8.63,
+      "Votes": 3662
+    },
+    {
+      "Ranking": 83,
+      "Title": "Gungrave (TV)",
+      "Rating": 8.35,
+      "Votes": 3762
+    },
+    {
+      "Ranking": 84,
+      "Title": "Puella Magi Madoka Magica (TV)",
+      "Rating": 8.61,
+      "Votes": 3612
+    },
+    {
+      "Ranking": 85,
+      "Title": "Dragon Ball (TV)",
+      "Rating": 7.28,
+      "Votes": 4268
+    },
+    {
+      "Ranking": 86,
+      "Title": "Monster (TV)",
+      "Rating": 8.76,
+      "Votes": 3538
+    },
+    {
+      "Ranking": 87,
+      "Title": "High School of the Dead (TV)",
+      "Rating": 7.54,
+      "Votes": 4022
+    },
+    {
+      "Ranking": 88,
+      "Title": "Summer Wars (movie)",
+      "Rating": 8.71,
+      "Votes": 3456
+    },
+    {
+      "Ranking": 89,
+      "Title": "Chrono Crusade (TV)",
+      "Rating": 7.76,
+      "Votes": 3852
+    },
+    {
+      "Ranking": 90,
+      "Title": "Bakemonogatari (TV)",
+      "Rating": 8.34,
+      "Votes": 3577
+    },
+    {
+      "Ranking": 91,
+      "Title": "anohana: The Flower We Saw That Day (TV)",
+      "Rating": 8.75,
+      "Votes": 3349
+    },
+    {
+      "Ranking": 92,
+      "Title": "Gunslinger Girl (TV)",
+      "Rating": 7.94,
+      "Votes": 3662
+    },
+    {
+      "Ranking": 93,
+      "Title": "Lunar Legend Tsukihime (TV)",
+      "Rating": 8.03,
+      "Votes": 3555
+    },
+    {
+      "Ranking": 94,
+      "Title": "(The) Familiar of Zero (TV)",
+      "Rating": 7.76,
+      "Votes": 3668
+    },
+    {
+      "Ranking": 95,
+      "Title": "Yu Yu Hakusho: Ghost Files (TV)",
+      "Rating": 8.1,
+      "Votes": 3512
+    },
+    {
+      "Ranking": 96,
+      "Title": "R.O.D -The TV-",
+      "Rating": 8.35,
+      "Votes": 3404
+    },
+    {
+      "Ranking": 97,
+      "Title": "Read or Die (OAV)",
+      "Rating": 8.05,
+      "Votes": 3528
+    },
+    {
+      "Ranking": 98,
+      "Title": "Mobile Suit Gundam Seed (TV)",
+      "Rating": 8.08,
+      "Votes": 3468
+    },
+    {
+      "Ranking": 99,
+      "Title": "Durarara!! (TV)",
+      "Rating": 8.06,
+      "Votes": 3475
+    },
+    {
+      "Ranking": 100,
+      "Title": "Paranoia Agent (TV)",
+      "Rating": 7.89,
+      "Votes": 3533
+    },
+    {
+      "Ranking": 101,
+      "Title": "My-HiME (TV)",
+      "Rating": 8.06,
+      "Votes": 3435
+    },
+    {
+      "Ranking": 102,
+      "Title": "Cardcaptor Sakura (TV)",
+      "Rating": 7.94,
+      "Votes": 3462
+    },
+    {
+      "Ranking": 103,
+      "Title": "Outlaw Star (TV)",
+      "Rating": 7.87,
+      "Votes": 3477
+    },
+    {
+      "Ranking": 104,
+      "Title": "Ah! My Goddess (TV)",
+      "Rating": 7.67,
+      "Votes": 3568
+    },
+    {
+      "Ranking": 105,
+      "Title": "RahXephon (TV)",
+      "Rating": 8.01,
+      "Votes": 3271
+    },
+    {
+      "Ranking": 106,
+      "Title": "Mobile Suit Gundam Wing (TV)",
+      "Rating": 7.55,
+      "Votes": 3458
+    },
+    {
+      "Ranking": 107,
+      "Title": "Paprika (movie)",
+      "Rating": 8.28,
+      "Votes": 3150
+    },
+    {
+      "Ranking": 108,
+      "Title": ".hack//SIGN (TV)",
+      "Rating": 7.01,
+      "Votes": 3644
+    },
+    {
+      "Ranking": 109,
+      "Title": "Please Teacher! (TV)",
+      "Rating": 7.61,
+      "Votes": 3333
+    },
+    {
+      "Ranking": 110,
+      "Title": "Voices of a Distant Star (OAV)",
+      "Rating": 8.13,
+      "Votes": 3110
+    },
+    {
+      "Ranking": 111,
+      "Title": "K-ON! (TV)",
+      "Rating": 7.83,
+      "Votes": 3225
+    },
+    {
+      "Ranking": 112,
+      "Title": "Rumbling Hearts (TV)",
+      "Rating": 7.88,
+      "Votes": 3191
+    },
+    {
+      "Ranking": 113,
+      "Title": "(The) Disappearance of Haruhi Suzumiya (movie)",
+      "Rating": 8.86,
+      "Votes": 2834
+    },
+    {
+      "Ranking": 114,
+      "Title": "Ghost in the Shell 2: Innocence (movie)",
+      "Rating": 7.85,
+      "Votes": 3176
+    },
+    {
+      "Ranking": 115,
+      "Title": "Honey and Clover (TV)",
+      "Rating": 8.4,
+      "Votes": 2945
+    },
+    {
+      "Ranking": 116,
+      "Title": "D.N.Angel (TV)",
+      "Rating": 7.36,
+      "Votes": 3341
+    },
+    {
+      "Ranking": 117,
+      "Title": "Gankutsuou: The Count of Monte Cristo (TV)",
+      "Rating": 8.47,
+      "Votes": 2877
+    },
+    {
+      "Ranking": 118,
+      "Title": "Witch Hunter Robin (TV)",
+      "Rating": 7.41,
+      "Votes": 3281
+    },
+    {
+      "Ranking": 119,
+      "Title": "Perfect Blue (movie)",
+      "Rating": 8.09,
+      "Votes": 2990
+    },
+    {
+      "Ranking": 120,
+      "Title": "Trinity Blood (TV)",
+      "Rating": 7.39,
+      "Votes": 3272
+    },
+    {
+      "Ranking": 121,
+      "Title": "Kimi ni Todoke - From Me to You (TV)",
+      "Rating": 8.44,
+      "Votes": 2861
+    },
+    {
+      "Ranking": 122,
+      "Title": "Nodame Cantabile (TV)",
+      "Rating": 8.65,
+      "Votes": 2794
+    },
+    {
+      "Ranking": 123,
+      "Title": "Shuffle! (TV)",
+      "Rating": 7.51,
+      "Votes": 3189
+    },
+    {
+      "Ranking": 124,
+      "Title": "Neon Genesis Evangelion: Death & Rebirth (movie)",
+      "Rating": 7.13,
+      "Votes": 3304
+    },
+    {
+      "Ranking": 125,
+      "Title": "Ninja Scroll (movie)",
+      "Rating": 7.55,
+      "Votes": 3094
+    },
+    {
+      "Ranking": 126,
+      "Title": "Rurouni Kenshin: Reflection (OAV)",
+      "Rating": 8.06,
+      "Votes": 2899
+    },
+    {
+      "Ranking": 127,
+      "Title": "Excel Saga (TV)",
+      "Rating": 7.44,
+      "Votes": 3125
+    },
+    {
+      "Ranking": 128,
+      "Title": "Genshiken (TV)",
+      "Rating": 8.11,
+      "Votes": 2866
+    },
+    {
+      "Ranking": 129,
+      "Title": "Ghost in the Shell: Stand Alone Complex 2nd GIG (TV)",
+      "Rating": 8.75,
+      "Votes": 2650
+    },
+    {
+      "Ranking": 130,
+      "Title": "BECK: Mongolian Chop Squad (TV)",
+      "Rating": 8.42,
+      "Votes": 2751
+    },
+    {
+      "Ranking": 131,
+      "Title": "Kino's Journey (TV)",
+      "Rating": 8.57,
+      "Votes": 2693
+    },
+    {
+      "Ranking": 132,
+      "Title": "Gantz (TV)",
+      "Rating": 7.14,
+      "Votes": 3229
+    },
+    {
+      "Ranking": 133,
+      "Title": "(The) Twelve Kingdoms (TV)",
+      "Rating": 8.44,
+      "Votes": 2729
+    },
+    {
+      "Ranking": 134,
+      "Title": "Hellsing Ultimate (OAV)",
+      "Rating": 8.41,
+      "Votes": 2730
+    },
+    {
+      "Ranking": 135,
+      "Title": "Whisper of the Heart (movie)",
+      "Rating": 8.48,
+      "Votes": 2697
+    },
+    {
+      "Ranking": 136,
+      "Title": "Vampire Hunter D: Bloodlust (movie)",
+      "Rating": 7.99,
+      "Votes": 2858
+    },
+    {
+      "Ranking": 137,
+      "Title": "When They Cry - Kai (TV)",
+      "Rating": 8.14,
+      "Votes": 2803
+    },
+    {
+      "Ranking": 138,
+      "Title": "Vampire Knight (TV)",
+      "Rating": 7.59,
+      "Votes": 3003
+    },
+    {
+      "Ranking": 139,
+      "Title": "Scrapped Princess (TV)",
+      "Rating": 7.96,
+      "Votes": 2851
+    },
+    {
+      "Ranking": 140,
+      "Title": "Tsubasa: RESERVoir CHRoNiCLE (TV)",
+      "Rating": 7.62,
+      "Votes": 2971
+    },
+    {
+      "Ranking": 141,
+      "Title": "Evangelion: 1.0 You Are (Not) Alone (movie)",
+      "Rating": 8.43,
+      "Votes": 2672
+    },
+    {
+      "Ranking": 142,
+      "Title": "Black Cat (TV)",
+      "Rating": 7.49,
+      "Votes": 2983
+    },
+    {
+      "Ranking": 143,
+      "Title": "His and Her Circumstances (TV)",
+      "Rating": 8,
+      "Votes": 2787
+    },
+    {
+      "Ranking": 144,
+      "Title": "Noir (TV)",
+      "Rating": 7.58,
+      "Votes": 2930
+    },
+    {
+      "Ranking": 145,
+      "Title": "Blood: The Last Vampire (movie)",
+      "Rating": 6.78,
+      "Votes": 3263
+    },
+    {
+      "Ranking": 146,
+      "Title": "Sailor Moon (TV)",
+      "Rating": 6.97,
+      "Votes": 3116
+    },
+    {
+      "Ranking": 147,
+      "Title": "D.Gray-man (TV)",
+      "Rating": 7.89,
+      "Votes": 2732
+    },
+    {
+      "Ranking": 148,
+      "Title": "xxxHOLiC (TV)",
+      "Rating": 7.92,
+      "Votes": 2716
+    },
+    {
+      "Ranking": 149,
+      "Title": "Hunter X Hunter (TV)",
+      "Rating": 8.56,
+      "Votes": 2497
+    },
+    {
+      "Ranking": 150,
+      "Title": "ef: a tale of memories (TV)",
+      "Rating": 8.54,
+      "Votes": 2494
+    },
+    {
+      "Ranking": 151,
+      "Title": "Moribito - Guardian of the Spirit (TV)",
+      "Rating": 8.48,
+      "Votes": 2511
+    },
+    {
+      "Ranking": 152,
+      "Title": "Midori Days (TV)",
+      "Rating": 7.66,
+      "Votes": 2774
+    },
+    {
+      "Ranking": 153,
+      "Title": "School Rumble: 2nd Semester (TV)",
+      "Rating": 8.34,
+      "Votes": 2512
+    },
+    {
+      "Ranking": 154,
+      "Title": "Planetes (TV)",
+      "Rating": 8.55,
+      "Votes": 2447
+    },
+    {
+      "Ranking": 155,
+      "Title": "Rosario + Vampire (TV)",
+      "Rating": 7.11,
+      "Votes": 2934
+    },
+    {
+      "Ranking": 156,
+      "Title": "(The) Place Promised in Our Early Days (movie)",
+      "Rating": 8.18,
+      "Votes": 2543
+    },
+    {
+      "Ranking": 156,
+      "Title": "Bamboo Blade (TV)",
+      "Rating": 8.21,
+      "Votes": 2531
+    },
+    {
+      "Ranking": 158,
+      "Title": "Millennium Actress (movie)",
+      "Rating": 8.57,
+      "Votes": 2424
+    },
+    {
+      "Ranking": 159,
+      "Title": "Appleseed (movie)",
+      "Rating": 7.14,
+      "Votes": 2893
+    },
+    {
+      "Ranking": 160,
+      "Title": "Porco Rosso (movie)",
+      "Rating": 8.16,
+      "Votes": 2512
+    },
+    {
+      "Ranking": 161,
+      "Title": "Ga-Rei-Zero (TV)",
+      "Rating": 8.07,
+      "Votes": 2535
+    },
+    {
+      "Ranking": 162,
+      "Title": "Love Hina Again (OAV)",
+      "Rating": 7.3,
+      "Votes": 2778
+    },
+    {
+      "Ranking": 163,
+      "Title": "Speed Grapher (TV)",
+      "Rating": 7.75,
+      "Votes": 2605
+    },
+    {
+      "Ranking": 164,
+      "Title": "Kaze no Stigma (TV)",
+      "Rating": 7.6,
+      "Votes": 2656
+    },
+    {
+      "Ranking": 165,
+      "Title": "Looking Up At The Half-Moon (TV)",
+      "Rating": 8.53,
+      "Votes": 2368
+    },
+    {
+      "Ranking": 166,
+      "Title": "A Certain Magical Index (TV)",
+      "Rating": 7.24,
+      "Votes": 2782
+    },
+    {
+      "Ranking": 167,
+      "Title": "Romeo × Juliet (TV)",
+      "Rating": 8.45,
+      "Votes": 2375
+    },
+    {
+      "Ranking": 168,
+      "Title": "Basilisk (TV)",
+      "Rating": 7.62,
+      "Votes": 2614
+    },
+    {
+      "Ranking": 169,
+      "Title": "Blue Exorcist (TV)",
+      "Rating": 7.75,
+      "Votes": 2563
+    },
+    {
+      "Ranking": 170,
+      "Title": "(The) Future Diary (TV)",
+      "Rating": 7.4,
+      "Votes": 2670
+    },
+    {
+      "Ranking": 171,
+      "Title": "Mobile Suit Gundam 00 (TV)",
+      "Rating": 8.22,
+      "Votes": 2379
+    },
+    {
+      "Ranking": 172,
+      "Title": "Black Butler (TV)",
+      "Rating": 7.82,
+      "Votes": 2492
+    },
+    {
+      "Ranking": 173,
+      "Title": "Golden Boy (OAV)",
+      "Rating": 7.93,
+      "Votes": 2455
+    },
+    {
+      "Ranking": 174,
+      "Title": "(The) Animatrix (OAV)",
+      "Rating": 7.14,
+      "Votes": 2722
+    },
+    {
+      "Ranking": 175,
+      "Title": "Another (TV)",
+      "Rating": 7.9,
+      "Votes": 2454
+    },
+    {
+      "Ranking": 176,
+      "Title": "Love Hina X'mas Special - Silent Eve",
+      "Rating": 7.63,
+      "Votes": 2538
+    },
+    {
+      "Ranking": 177,
+      "Title": "Fairy Tail (TV)",
+      "Rating": 7.72,
+      "Votes": 2488
+    },
+    {
+      "Ranking": 178,
+      "Title": "Ai Yori Aoshi (TV)",
+      "Rating": 7.38,
+      "Votes": 2586
+    },
+    {
+      "Ranking": 179,
+      "Title": "Spice and Wolf II (TV)",
+      "Rating": 8.52,
+      "Votes": 2241
+    },
+    {
+      "Ranking": 180,
+      "Title": "Evangelion: 2.0 You Can (Not) Advance (movie)",
+      "Rating": 8.76,
+      "Votes": 2170
+    },
+    {
+      "Ranking": 181,
+      "Title": "(The) Familiar of Zero: Knight of the Twin Moons (TV)",
+      "Rating": 7.76,
+      "Votes": 2443
+    },
+    {
+      "Ranking": 182,
+      "Title": "Full Metal Panic! The Second Raid (OAV)",
+      "Rating": 8,
+      "Votes": 2367
+    },
+    {
+      "Ranking": 183,
+      "Title": "S-CRY-ed (TV)",
+      "Rating": 7.07,
+      "Votes": 2660
+    },
+    {
+      "Ranking": 184,
+      "Title": "Strawberry Panic! (TV)",
+      "Rating": 8.26,
+      "Votes": 2258
+    },
+    {
+      "Ranking": 185,
+      "Title": "Skip Beat! (TV)",
+      "Rating": 8.33,
+      "Votes": 2232
+    },
+    {
+      "Ranking": 186,
+      "Title": "(The) Cat Returns (movie)",
+      "Rating": 7.92,
+      "Votes": 2346
+    },
+    {
+      "Ranking": 187,
+      "Title": "Dragon Ball GT (TV)",
+      "Rating": 5.48,
+      "Votes": 3372
+    },
+    {
+      "Ranking": 188,
+      "Title": "Tokyo Godfathers (movie)",
+      "Rating": 8.39,
+      "Votes": 2199
+    },
+    {
+      "Ranking": 189,
+      "Title": "Please Twins! (TV)",
+      "Rating": 7.26,
+      "Votes": 2522
+    },
+    {
+      "Ranking": 190,
+      "Title": "Kurenai (TV)",
+      "Rating": 8,
+      "Votes": 2281
+    },
+    {
+      "Ranking": 191,
+      "Title": "Karin (TV)",
+      "Rating": 7.5,
+      "Votes": 2432
+    },
+    {
+      "Ranking": 192,
+      "Title": "Now and Then, Here and There (TV)",
+      "Rating": 8.17,
+      "Votes": 2229
+    },
+    {
+      "Ranking": 193,
+      "Title": "Kaleido Star (TV)",
+      "Rating": 8.63,
+      "Votes": 2108
+    },
+    {
+      "Ranking": 194,
+      "Title": "Elfen Lied (OAV)",
+      "Rating": 7.39,
+      "Votes": 2460
+    },
+    {
+      "Ranking": 195,
+      "Title": "KenIchi the Mightiest Disciple (TV)",
+      "Rating": 8.24,
+      "Votes": 2187
+    },
+    {
+      "Ranking": 196,
+      "Title": "Oreimo (TV)",
+      "Rating": 7.53,
+      "Votes": 2377
+    },
+    {
+      "Ranking": 197,
+      "Title": "Air Gear (TV)",
+      "Rating": 7.54,
+      "Votes": 2372
+    },
+    {
+      "Ranking": 198,
+      "Title": "NANA (TV)",
+      "Rating": 8.52,
+      "Votes": 2095
+    },
+    {
+      "Ranking": 199,
+      "Title": "Rozen Maiden (TV)",
+      "Rating": 7.65,
+      "Votes": 2334
+    },
+    {
+      "Ranking": 200,
+      "Title": "Fate/Zero (TV)",
+      "Rating": 8.24,
+      "Votes": 2167
+    },
+    {
+      "Ranking": 201,
+      "Title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+      "Rating": 7.02,
+      "Votes": 2536
+    },
+    {
+      "Ranking": 202,
+      "Title": "Honey and Clover II (TV)",
+      "Rating": 8.54,
+      "Votes": 2080
+    },
+    {
+      "Ranking": 203,
+      "Title": "Vandread (TV)",
+      "Rating": 7.41,
+      "Votes": 2385
+    },
+    {
+      "Ranking": 204,
+      "Title": "Ranma ½ (TV)",
+      "Rating": 7.67,
+      "Votes": 2301
+    },
+    {
+      "Ranking": 205,
+      "Title": "Destiny of the Shrine Maiden (TV)",
+      "Rating": 7.85,
+      "Votes": 2247
+    },
+    {
+      "Ranking": 206,
+      "Title": "Darker than Black: Gemini of the Meteor (TV)",
+      "Rating": 7.75,
+      "Votes": 2277
+    },
+    {
+      "Ranking": 207,
+      "Title": "Shakugan no Shana Second (TV)",
+      "Rating": 7.88,
+      "Votes": 2234
+    },
+    {
+      "Ranking": 208,
+      "Title": "My Bride is a Mermaid (TV)",
+      "Rating": 7.99,
+      "Votes": 2193
+    },
+    {
+      "Ranking": 209,
+      "Title": "Psycho-Pass (TV)",
+      "Rating": 8.1,
+      "Votes": 2163
+    },
+    {
+      "Ranking": 210,
+      "Title": "School Days (TV)",
+      "Rating": 6.47,
+      "Votes": 2704
+    },
+    {
+      "Ranking": 211,
+      "Title": "Lovely Complex (TV)",
+      "Rating": 8.23,
+      "Votes": 2124
+    },
+    {
+      "Ranking": 212,
+      "Title": "Love Hina Spring Special - I Wish Your Dream",
+      "Rating": 7.26,
+      "Votes": 2407
+    },
+    {
+      "Ranking": 213,
+      "Title": "Corpse Princess: Aka (TV)",
+      "Rating": 7.78,
+      "Votes": 2235
+    },
+    {
+      "Ranking": 214,
+      "Title": "Pokémon (TV)",
+      "Rating": 5.57,
+      "Votes": 3121
+    },
+    {
+      "Ranking": 215,
+      "Title": "Maria Watches Over Us (TV)",
+      "Rating": 8.53,
+      "Votes": 2027
+    },
+    {
+      "Ranking": 216,
+      "Title": "Escaflowne: The Movie",
+      "Rating": 6.75,
+      "Votes": 2548
+    },
+    {
+      "Ranking": 217,
+      "Title": "Bleach the Movie: Memories of Nobody",
+      "Rating": 7.4,
+      "Votes": 2324
+    },
+    {
+      "Ranking": 218,
+      "Title": "Afro Samurai (TV)",
+      "Rating": 7.05,
+      "Votes": 2435
+    },
+    {
+      "Ranking": 219,
+      "Title": "Tenjho Tenge (TV)",
+      "Rating": 6.94,
+      "Votes": 2459
+    },
+    {
+      "Ranking": 220,
+      "Title": "Utawarerumono (TV)",
+      "Rating": 7.88,
+      "Votes": 2157
+    },
+    {
+      "Ranking": 221,
+      "Title": "Mobile Suit Gundam Seed Destiny (TV)",
+      "Rating": 7.42,
+      "Votes": 2287
+    },
+    {
+      "Ranking": 222,
+      "Title": "Ah! My Goddess: The Movie",
+      "Rating": 7.81,
+      "Votes": 2169
+    },
+    {
+      "Ranking": 223,
+      "Title": "X (TV)",
+      "Rating": 7.63,
+      "Votes": 2215
+    },
+    {
+      "Ranking": 224,
+      "Title": "Maid Sama! (TV)",
+      "Rating": 7.28,
+      "Votes": 2320
+    },
+    {
+      "Ranking": 225,
+      "Title": "She, The Ultimate Weapon (TV)",
+      "Rating": 7.6,
+      "Votes": 2216
+    },
+    {
+      "Ranking": 226,
+      "Title": "Deadman Wonderland (TV)",
+      "Rating": 7.46,
+      "Votes": 2247
+    },
+    {
+      "Ranking": 227,
+      "Title": "(The) Melancholy of Haruhi Suzumiya (TV 2009 renewal)",
+      "Rating": 7.15,
+      "Votes": 2341
+    },
+    {
+      "Ranking": 228,
+      "Title": "Ghost Hunt (TV)",
+      "Rating": 7.85,
+      "Votes": 2123
+    },
+    {
+      "Ranking": 229,
+      "Title": "Rurouni Kenshin: The Motion Picture",
+      "Rating": 7.34,
+      "Votes": 2246
+    },
+    {
+      "Ranking": 230,
+      "Title": "Bludgeoning Angel Dokuro-chan (TV)",
+      "Rating": 6.92,
+      "Votes": 2360
+    },
+    {
+      "Ranking": 231,
+      "Title": "Ponyo on the Cliff by the Sea (movie)",
+      "Rating": 7.9,
+      "Votes": 2055
+    },
+    {
+      "Ranking": 232,
+      "Title": "Sayonara Zetsubou-sensei (TV)",
+      "Rating": 8.17,
+      "Votes": 1983
+    },
+    {
+      "Ranking": 233,
+      "Title": "Oh My Goddess! (OAV)",
+      "Rating": 7.59,
+      "Votes": 2133
+    },
+    {
+      "Ranking": 234,
+      "Title": "Bunny Drop (TV)",
+      "Rating": 8.76,
+      "Votes": 1847
+    },
+    {
+      "Ranking": 235,
+      "Title": "Hell Girl (TV)",
+      "Rating": 7.52,
+      "Votes": 2144
+    },
+    {
+      "Ranking": 236,
+      "Title": "Negima! (TV)",
+      "Rating": 7.07,
+      "Votes": 2271
+    },
+    {
+      "Ranking": 237,
+      "Title": "Sword of the Stranger (movie)",
+      "Rating": 8.44,
+      "Votes": 1894
+    },
+    {
+      "Ranking": 238,
+      "Title": "InuYasha the Movie 2: The Castle Beyond the Looking Glass",
+      "Rating": 7.47,
+      "Votes": 2124
+    },
+    {
+      "Ranking": 239,
+      "Title": "Noein - to your other self (TV)",
+      "Rating": 7.95,
+      "Votes": 1995
+    },
+    {
+      "Ranking": 240,
+      "Title": "Birdy the Mighty: Decode (TV)",
+      "Rating": 7.91,
+      "Votes": 1994
+    },
+    {
+      "Ranking": 241,
+      "Title": "One Punch Man (TV)",
+      "Rating": 8.22,
+      "Votes": 1914
+    },
+    {
+      "Ranking": 242,
+      "Title": "(The) Slayers (TV)",
+      "Rating": 7.69,
+      "Votes": 2042
+    },
+    {
+      "Ranking": 243,
+      "Title": "InuYasha the Movie: Affections Touching Across Time",
+      "Rating": 7.36,
+      "Votes": 2127
+    },
+    {
+      "Ranking": 244,
+      "Title": "Jin-Roh - The Wolf Brigade (movie)",
+      "Rating": 7.89,
+      "Votes": 1983
+    },
+    {
+      "Ranking": 245,
+      "Title": "Metropolis (movie)",
+      "Rating": 7.37,
+      "Votes": 2122
+    },
+    {
+      "Ranking": 246,
+      "Title": "Digimon Adventure (TV)",
+      "Rating": 6.75,
+      "Votes": 2315
+    },
+    {
+      "Ranking": 247,
+      "Title": "(The) World God Only Knows (TV)",
+      "Rating": 7.63,
+      "Votes": 2037
+    },
+    {
+      "Ranking": 248,
+      "Title": "A Certain Scientific Railgun (TV)",
+      "Rating": 7.48,
+      "Votes": 2069
+    },
+    {
+      "Ranking": 249,
+      "Title": "Baka and Test - Summon the Beasts (TV)",
+      "Rating": 7.75,
+      "Votes": 1986
+    },
+    {
+      "Ranking": 250,
+      "Title": "Myself; Yourself (TV)",
+      "Rating": 7.9,
+      "Votes": 1944
+    },
+    {
+      "Ranking": 251,
+      "Title": "Vampire Knight Guilty (TV)",
+      "Rating": 7.76,
+      "Votes": 1966
+    },
+    {
+      "Ranking": 252,
+      "Title": "Sekirei (TV)",
+      "Rating": 7.44,
+      "Votes": 2046
+    },
+    {
+      "Ranking": 253,
+      "Title": "(The) Big O (TV)",
+      "Rating": 7.15,
+      "Votes": 2119
+    },
+    {
+      "Ranking": 254,
+      "Title": "Getbackers (TV)",
+      "Rating": 7.59,
+      "Votes": 1996
+    },
+    {
+      "Ranking": 255,
+      "Title": "Fushigi Yugi (TV)",
+      "Rating": 7.54,
+      "Votes": 2005
+    },
+    {
+      "Ranking": 256,
+      "Title": "(The) Garden of Sinners (movie series)",
+      "Rating": 8.67,
+      "Votes": 1742
+    },
+    {
+      "Ranking": 257,
+      "Title": "Heroic Age (TV)",
+      "Rating": 7.81,
+      "Votes": 1932
+    },
+    {
+      "Ranking": 258,
+      "Title": "Wolf's Rain (OAV)",
+      "Rating": 8.21,
+      "Votes": 1828
+    },
+    {
+      "Ranking": 259,
+      "Title": "Kill la Kill (TV)",
+      "Rating": 8.19,
+      "Votes": 1832
+    },
+    {
+      "Ranking": 260,
+      "Title": "(The) Devil Is a Part-Timer! (TV)",
+      "Rating": 7.63,
+      "Votes": 1964
+    },
+    {
+      "Ranking": 261,
+      "Title": "Lupin III: The Castle of Cagliostro (movie)",
+      "Rating": 8.2,
+      "Votes": 1807
+    },
+    {
+      "Ranking": 262,
+      "Title": "Corpse Princess: Kuro (TV)",
+      "Rating": 7.91,
+      "Votes": 1869
+    },
+    {
+      "Ranking": 263,
+      "Title": "Buso Renkin (TV)",
+      "Rating": 7.37,
+      "Votes": 1996
+    },
+    {
+      "Ranking": 264,
+      "Title": "Hikaru no Go (TV)",
+      "Rating": 8.17,
+      "Votes": 1787
+    },
+    {
+      "Ranking": 265,
+      "Title": "Samurai Deeper Kyo (TV)",
+      "Rating": 7.19,
+      "Votes": 2019
+    },
+    {
+      "Ranking": 266,
+      "Title": "Ghost in the Shell: Stand Alone Complex: Solid State Society (movie)",
+      "Rating": 8.31,
+      "Votes": 1746
+    },
+    {
+      "Ranking": 267,
+      "Title": "Vampire Hunter D (OAV)",
+      "Rating": 7.02,
+      "Votes": 2067
+    },
+    {
+      "Ranking": 268,
+      "Title": "Hajime no Ippo (TV)",
+      "Rating": 8.74,
+      "Votes": 1653
+    },
+    {
+      "Ranking": 269,
+      "Title": "Cat Planet Cuties (TV)",
+      "Rating": 7.66,
+      "Votes": 1873
+    },
+    {
+      "Ranking": 270,
+      "Title": "Case Closed (TV)",
+      "Rating": 7.56,
+      "Votes": 1899
+    },
+    {
+      "Ranking": 271,
+      "Title": "InuYasha the Movie 3: Swords of an Honorable Ruler",
+      "Rating": 7.78,
+      "Votes": 1842
+    },
+    {
+      "Ranking": 272,
+      "Title": "Vandread: The Second Stage (TV)",
+      "Rating": 7.45,
+      "Votes": 1917
+    },
+    {
+      "Ranking": 273,
+      "Title": "True Tears (TV)",
+      "Rating": 7.46,
+      "Votes": 1914
+    },
+    {
+      "Ranking": 274,
+      "Title": "K-ON!! (TV 2)",
+      "Rating": 7.67,
+      "Votes": 1843
+    },
+    {
+      "Ranking": 275,
+      "Title": "Rideback (TV)",
+      "Rating": 7.82,
+      "Votes": 1805
+    },
+    {
+      "Ranking": 276,
+      "Title": "Guilty Crown (TV)",
+      "Rating": 7.29,
+      "Votes": 1919
+    },
+    {
+      "Ranking": 277,
+      "Title": "Gosick (TV)",
+      "Rating": 8.27,
+      "Votes": 1692
+    },
+    {
+      "Ranking": 278,
+      "Title": "DearS (TV)",
+      "Rating": 6.76,
+      "Votes": 2065
+    },
+    {
+      "Ranking": 279,
+      "Title": "Suzuka (TV)",
+      "Rating": 7.4,
+      "Votes": 1871
+    },
+    {
+      "Ranking": 280,
+      "Title": "Rosario + Vampire Capu2 (TV)",
+      "Rating": 7.33,
+      "Votes": 1887
+    },
+    {
+      "Ranking": 281,
+      "Title": "Magical Shopping Arcade Abenobashi (TV)",
+      "Rating": 7.42,
+      "Votes": 1858
+    },
+    {
+      "Ranking": 282,
+      "Title": "Ah! My Goddess: Flights of Fancy (TV)",
+      "Rating": 7.88,
+      "Votes": 1740
+    },
+    {
+      "Ranking": 283,
+      "Title": "No Game, No Life (TV)",
+      "Rating": 8.17,
+      "Votes": 1675
+    },
+    {
+      "Ranking": 284,
+      "Title": "Gravitation (TV)",
+      "Rating": 7.46,
+      "Votes": 1833
+    },
+    {
+      "Ranking": 285,
+      "Title": "Martian Successor Nadesico (TV)",
+      "Rating": 7.75,
+      "Votes": 1761
+    },
+    {
+      "Ranking": 286,
+      "Title": "Tenchi Muyo! (OAV 1/1992)",
+      "Rating": 7.9,
+      "Votes": 1727
+    },
+    {
+      "Ranking": 287,
+      "Title": "Mobile Suit Gundam Wing: Endless Waltz (OAV)",
+      "Rating": 7.59,
+      "Votes": 1793
+    },
+    {
+      "Ranking": 288,
+      "Title": "My-Otome (TV)",
+      "Rating": 7.63,
+      "Votes": 1783
+    },
+    {
+      "Ranking": 289,
+      "Title": "Fate/Zero (TV 2)",
+      "Rating": 8.39,
+      "Votes": 1621
+    },
+    {
+      "Ranking": 290,
+      "Title": "Hayate the Combat Butler (TV)",
+      "Rating": 7.87,
+      "Votes": 1727
+    },
+    {
+      "Ranking": 291,
+      "Title": "Crest of the Stars (TV)",
+      "Rating": 8.03,
+      "Votes": 1690
+    },
+    {
+      "Ranking": 292,
+      "Title": "Blassreiter (TV)",
+      "Rating": 7.71,
+      "Votes": 1761
+    },
+    {
+      "Ranking": 293,
+      "Title": "Black Blood Brothers (TV)",
+      "Rating": 7.04,
+      "Votes": 1923
+    },
+    {
+      "Ranking": 293,
+      "Title": "Devil May Cry (TV)",
+      "Rating": 6.85,
+      "Votes": 1976
+    },
+    {
+      "Ranking": 295,
+      "Title": "Angelic Layer (TV)",
+      "Rating": 7.34,
+      "Votes": 1842
+    },
+    {
+      "Ranking": 296,
+      "Title": "Please Teacher! (OAV)",
+      "Rating": 7.48,
+      "Votes": 1803
+    },
+    {
+      "Ranking": 297,
+      "Title": "(The) Familiar of Zero: Rondo of Princesses (TV)",
+      "Rating": 7.5,
+      "Votes": 1795
+    },
+    {
+      "Ranking": 298,
+      "Title": "Birdy the Mighty Decode:02 (TV)",
+      "Rating": 8.1,
+      "Votes": 1662
+    },
+    {
+      "Ranking": 299,
+      "Title": "Natsume's Book of Friends (TV)",
+      "Rating": 8.41,
+      "Votes": 1600
+    },
+    {
+      "Ranking": 300,
+      "Title": "Macross Frontier (TV)",
+      "Rating": 8.35,
+      "Votes": 1593
+    },
+    {
+      "Ranking": 301,
+      "Title": "Yakitate!! Japan (TV)",
+      "Rating": 7.02,
+      "Votes": 1885
+    },
+    {
+      "Ranking": 302,
+      "Title": "Casshern Sins (TV)",
+      "Rating": 7.63,
+      "Votes": 1732
+    },
+    {
+      "Ranking": 303,
+      "Title": "Last Order Final Fantasy VII (OAV)",
+      "Rating": 7.37,
+      "Votes": 1786
+    },
+    {
+      "Ranking": 304,
+      "Title": "Minami-ke (TV)",
+      "Rating": 7.89,
+      "Votes": 1663
+    },
+    {
+      "Ranking": 305,
+      "Title": "Blue Gender (TV)",
+      "Rating": 6.63,
+      "Votes": 1964
+    },
+    {
+      "Ranking": 306,
+      "Title": "Ikki Tousen (TV)",
+      "Rating": 6.22,
+      "Votes": 2088
+    },
+    {
+      "Ranking": 307,
+      "Title": "Squid Girl (TV)",
+      "Rating": 7.92,
+      "Votes": 1634
+    },
+    {
+      "Ranking": 308,
+      "Title": "Mobile Suit Gundam 00 Second Season (TV)",
+      "Rating": 8.31,
+      "Votes": 1556
+    },
+    {
+      "Ranking": 309,
+      "Title": "Kurokami The Animation (TV)",
+      "Rating": 7.8,
+      "Votes": 1655
+    },
+    {
+      "Ranking": 310,
+      "Title": "Steamboy (movie)",
+      "Rating": 7.38,
+      "Votes": 1749
+    },
+    {
+      "Ranking": 311,
+      "Title": "Demon King Daimao (TV)",
+      "Rating": 7.16,
+      "Votes": 1795
+    },
+    {
+      "Ranking": 312,
+      "Title": "Paradise Kiss (TV)",
+      "Rating": 7.89,
+      "Votes": 1622
+    },
+    {
+      "Ranking": 313,
+      "Title": "Cardcaptor Sakura The Movie 2: The Sealed Card",
+      "Rating": 8.21,
+      "Votes": 1560
+    },
+    {
+      "Ranking": 314,
+      "Title": "MoonPhase (TV)",
+      "Rating": 7.47,
+      "Votes": 1707
+    },
+    {
+      "Ranking": 315,
+      "Title": "Ai Yori Aoshi ~Enishi~ (TV)",
+      "Rating": 7.33,
+      "Votes": 1738
+    },
+    {
+      "Ranking": 316,
+      "Title": "Chaos;HEAd (TV)",
+      "Rating": 6.74,
+      "Votes": 1885
+    },
+    {
+      "Ranking": 317,
+      "Title": "Time of Eve (ONA)",
+      "Rating": 8.58,
+      "Votes": 1478
+    },
+    {
+      "Ranking": 318,
+      "Title": "School Rumble: Extra Class (OAV)",
+      "Rating": 8.01,
+      "Votes": 1577
+    },
+    {
+      "Ranking": 319,
+      "Title": "Haganai (TV)",
+      "Rating": 7.55,
+      "Votes": 1663
+    },
+    {
+      "Ranking": 320,
+      "Title": "Tenchi Universe (TV)",
+      "Rating": 7.42,
+      "Votes": 1677
+    },
+    {
+      "Ranking": 321,
+      "Title": "Mahoromatic - Automatic Maiden (TV)",
+      "Rating": 7.49,
+      "Votes": 1661
+    },
+    {
+      "Ranking": 322,
+      "Title": "CANAAN (TV)",
+      "Rating": 7.66,
+      "Votes": 1623
+    },
+    {
+      "Ranking": 323,
+      "Title": "Shonen Onmyouji (TV)",
+      "Rating": 7.95,
+      "Votes": 1562
+    },
+    {
+      "Ranking": 324,
+      "Title": "Is This a Zombie? (TV)",
+      "Rating": 7.56,
+      "Votes": 1636
+    },
+    {
+      "Ranking": 325,
+      "Title": "Maburaho (TV)",
+      "Rating": 6.92,
+      "Votes": 1781
+    },
+    {
+      "Ranking": 326,
+      "Title": "Rozen Maiden: Träumend (TV)",
+      "Rating": 7.88,
+      "Votes": 1564
+    },
+    {
+      "Ranking": 327,
+      "Title": "Mobile Suit Gundam: The 08th MS Team (OAV)",
+      "Rating": 7.97,
+      "Votes": 1545
+    },
+    {
+      "Ranking": 328,
+      "Title": "Xam'd: Lost Memories (ONA)",
+      "Rating": 7.54,
+      "Votes": 1630
+    },
+    {
+      "Ranking": 329,
+      "Title": "Girls Bravo (TV)",
+      "Rating": 6.72,
+      "Votes": 1828
+    },
+    {
+      "Ranking": 330,
+      "Title": "Hunter X Hunter (OAV)",
+      "Rating": 8.57,
+      "Votes": 1433
+    },
+    {
+      "Ranking": 331,
+      "Title": "Love, Chunibyo & Other Delusions! (TV)",
+      "Rating": 7.94,
+      "Votes": 1546
+    },
+    {
+      "Ranking": 332,
+      "Title": "Den-noh Coil (TV)",
+      "Rating": 8.4,
+      "Votes": 1456
+    },
+    {
+      "Ranking": 333,
+      "Title": "Nisemonogatari (TV)",
+      "Rating": 8.1,
+      "Votes": 1496
+    },
+    {
+      "Ranking": 334,
+      "Title": "RIN - Daughters of Mnemosyne (TV)",
+      "Rating": 7.48,
+      "Votes": 1617
+    },
+    {
+      "Ranking": 335,
+      "Title": "Revolutionary Girl Utena (TV)",
+      "Rating": 8.02,
+      "Votes": 1509
+    },
+    {
+      "Ranking": 336,
+      "Title": "Pokémon: The First Movie (movie 1)",
+      "Rating": 6.26,
+      "Votes": 1931
+    },
+    {
+      "Ranking": 337,
+      "Title": "Eden of the East: The King of Eden (movie)",
+      "Rating": 7.89,
+      "Votes": 1530
+    },
+    {
+      "Ranking": 338,
+      "Title": "Kimi ni Todoke 2nd Season (TV)",
+      "Rating": 8.35,
+      "Votes": 1443
+    },
+    {
+      "Ranking": 339,
+      "Title": "Your Lie in April (TV)",
+      "Rating": 8.47,
+      "Votes": 1415
+    },
+    {
+      "Ranking": 340,
+      "Title": "Burst Angel (TV)",
+      "Rating": 6.61,
+      "Votes": 1807
+    },
+    {
+      "Ranking": 341,
+      "Title": "Maria Watches Over Us Season 2: Printemps (TV)",
+      "Rating": 8.81,
+      "Votes": 1353
+    },
+    {
+      "Ranking": 342,
+      "Title": "Tokyo Ghoul (TV)",
+      "Rating": 7.23,
+      "Votes": 1645
+    },
+    {
+      "Ranking": 343,
+      "Title": "Kannagi: Crazy Shrine Maidens (TV)",
+      "Rating": 7.73,
+      "Votes": 1539
+    },
+    {
+      "Ranking": 344,
+      "Title": "Princess Tutu (TV)",
+      "Rating": 8.37,
+      "Votes": 1410
+    },
+    {
+      "Ranking": 345,
+      "Title": "Shaman King (TV)",
+      "Rating": 7.27,
+      "Votes": 1622
+    },
+    {
+      "Ranking": 346,
+      "Title": "your name. (movie)",
+      "Rating": 8.99,
+      "Votes": 1310
+    },
+    {
+      "Ranking": 347,
+      "Title": "Aishiteruze Baby (TV)",
+      "Rating": 7.68,
+      "Votes": 1527
+    },
+    {
+      "Ranking": 348,
+      "Title": "Cardcaptor Sakura: The Movie",
+      "Rating": 7.59,
+      "Votes": 1545
+    },
+    {
+      "Ranking": 349,
+      "Title": "Initial D (TV)",
+      "Rating": 7.85,
+      "Votes": 1492
+    },
+    {
+      "Ranking": 350,
+      "Title": "Parasyte -the maxim- (TV)",
+      "Rating": 8.19,
+      "Votes": 1429
+    },
+    {
+      "Ranking": 351,
+      "Title": "ERASED (TV)",
+      "Rating": 8.3,
+      "Votes": 1408
+    },
+    {
+      "Ranking": 352,
+      "Title": "Loveless (TV)",
+      "Rating": 7.32,
+      "Votes": 1588
+    },
+    {
+      "Ranking": 353,
+      "Title": "Full Moon o Sagashite (TV)",
+      "Rating": 8.18,
+      "Votes": 1420
+    },
+    {
+      "Ranking": 354,
+      "Title": "S.A (TV)",
+      "Rating": 7.65,
+      "Votes": 1518
+    },
+    {
+      "Ranking": 355,
+      "Title": "High School DxD (TV)",
+      "Rating": 7.41,
+      "Votes": 1565
+    },
+    {
+      "Ranking": 356,
+      "Title": "Hunter X Hunter: Greed Island (OAV)",
+      "Rating": 8.4,
+      "Votes": 1379
+    },
+    {
+      "Ranking": 357,
+      "Title": "Phantom ~Requiem for the Phantom~ (TV)",
+      "Rating": 7.54,
+      "Votes": 1530
+    },
+    {
+      "Ranking": 358,
+      "Title": "Macross Plus (OAV)",
+      "Rating": 7.97,
+      "Votes": 1444
+    },
+    {
+      "Ranking": 359,
+      "Title": "REC (TV)",
+      "Rating": 7.73,
+      "Votes": 1483
+    },
+    {
+      "Ranking": 360,
+      "Title": "Naruto the Movie: Legend of the Stone of Gelel (movie 2)",
+      "Rating": 6.67,
+      "Votes": 1717
+    },
+    {
+      "Ranking": 361,
+      "Title": "Bleach: The DiamondDust Rebellion (movie 2)",
+      "Rating": 7.49,
+      "Votes": 1528
+    },
+    {
+      "Ranking": 362,
+      "Title": "Hunter X Hunter: G I Final (OAV)",
+      "Rating": 8.45,
+      "Votes": 1353
+    },
+    {
+      "Ranking": 363,
+      "Title": "Shiki (TV)",
+      "Rating": 7.42,
+      "Votes": 1538
+    },
+    {
+      "Ranking": 364,
+      "Title": "Gintama (TV)",
+      "Rating": 8.39,
+      "Votes": 1355
+    },
+    {
+      "Ranking": 365,
+      "Title": "Sola (TV)",
+      "Rating": 7.76,
+      "Votes": 1464
+    },
+    {
+      "Ranking": 366,
+      "Title": "Karas (OAV)",
+      "Rating": 7.67,
+      "Votes": 1474
+    },
+    {
+      "Ranking": 367,
+      "Title": "(The) World God Only Knows Season Two (TV)",
+      "Rating": 7.63,
+      "Votes": 1479
+    },
+    {
+      "Ranking": 368,
+      "Title": "Green Green (TV)",
+      "Rating": 6.3,
+      "Votes": 1791
+    },
+    {
+      "Ranking": 369,
+      "Title": "Katanagatari (TV)",
+      "Rating": 8.4,
+      "Votes": 1343
+    },
+    {
+      "Ranking": 370,
+      "Title": "Noragami (TV)",
+      "Rating": 7.58,
+      "Votes": 1486
+    },
+    {
+      "Ranking": 371,
+      "Title": "My Little Monster (TV)",
+      "Rating": 7.79,
+      "Votes": 1444
+    },
+    {
+      "Ranking": 372,
+      "Title": "Dance in the Vampire Bund (TV)",
+      "Rating": 6.61,
+      "Votes": 1697
+    },
+    {
+      "Ranking": 373,
+      "Title": "Banner of the Stars (TV)",
+      "Rating": 8,
+      "Votes": 1400
+    },
+    {
+      "Ranking": 374,
+      "Title": "Btooom! (TV)",
+      "Rating": 7.39,
+      "Votes": 1514
+    },
+    {
+      "Ranking": 375,
+      "Title": "Sailor Moon R (TV)",
+      "Rating": 7.27,
+      "Votes": 1536
+    },
+    {
+      "Ranking": 376,
+      "Title": "Infinite Stratos (TV)",
+      "Rating": 6.97,
+      "Votes": 1600
+    },
+    {
+      "Ranking": 377,
+      "Title": "Kids on the Slope (TV)",
+      "Rating": 8.55,
+      "Votes": 1304
+    },
+    {
+      "Ranking": 378,
+      "Title": "Kiddy Grade (TV)",
+      "Rating": 7.13,
+      "Votes": 1563
+    },
+    {
+      "Ranking": 379,
+      "Title": "B Gata H Kei - Yamada’s First Time (TV)",
+      "Rating": 7.25,
+      "Votes": 1538
+    },
+    {
+      "Ranking": 380,
+      "Title": "Nodame Cantabile: Paris (TV)",
+      "Rating": 8.39,
+      "Votes": 1326
+    },
+    {
+      "Ranking": 381,
+      "Title": "Sound of the Sky (TV)",
+      "Rating": 7.8,
+      "Votes": 1427
+    },
+    {
+      "Ranking": 382,
+      "Title": "To Love-Ru (TV)",
+      "Rating": 7.06,
+      "Votes": 1573
+    },
+    {
+      "Ranking": 383,
+      "Title": "Heaven's Lost Property (TV)",
+      "Rating": 7.45,
+      "Votes": 1487
+    },
+    {
+      "Ranking": 384,
+      "Title": "Record of Lodoss War (OAV)",
+      "Rating": 7.38,
+      "Votes": 1497
+    },
+    {
+      "Ranking": 385,
+      "Title": "(The) Slayers Next (TV)",
+      "Rating": 8.21,
+      "Votes": 1340
+    },
+    {
+      "Ranking": 386,
+      "Title": "Accel World (TV)",
+      "Rating": 7.42,
+      "Votes": 1484
+    },
+    {
+      "Ranking": 387,
+      "Title": ".hack//Legend of the Twilight (TV)",
+      "Rating": 6.49,
+      "Votes": 1691
+    },
+    {
+      "Ranking": 388,
+      "Title": "(The) Wallflower (TV)",
+      "Rating": 7.59,
+      "Votes": 1445
+    },
+    {
+      "Ranking": 389,
+      "Title": "Azumanga Daioh - The Very Short Movie",
+      "Rating": 7.22,
+      "Votes": 1515
+    },
+    {
+      "Ranking": 390,
+      "Title": "Air (movie)",
+      "Rating": 7.4,
+      "Votes": 1477
+    },
+    {
+      "Ranking": 391,
+      "Title": "Nabari no Ou (TV)",
+      "Rating": 7.39,
+      "Votes": 1478
+    },
+    {
+      "Ranking": 392,
+      "Title": "Chrome Shelled Regios (TV)",
+      "Rating": 7.63,
+      "Votes": 1427
+    },
+    {
+      "Ranking": 393,
+      "Title": "Boogiepop Phantom (TV)",
+      "Rating": 7.31,
+      "Votes": 1488
+    },
+    {
+      "Ranking": 394,
+      "Title": "HYOUKA (TV)",
+      "Rating": 8.01,
+      "Votes": 1356
+    },
+    {
+      "Ranking": 395,
+      "Title": "(The) Prince of Tennis (TV)",
+      "Rating": 7.59,
+      "Votes": 1427
+    },
+    {
+      "Ranking": 396,
+      "Title": "Sailor Moon S (TV)",
+      "Rating": 7.63,
+      "Votes": 1412
+    },
+    {
+      "Ranking": 397,
+      "Title": "This Ugly Yet Beautiful World (TV)",
+      "Rating": 6.81,
+      "Votes": 1581
+    },
+    {
+      "Ranking": 398,
+      "Title": "ef: a tale of melodies (TV)",
+      "Rating": 8.54,
+      "Votes": 1257
+    },
+    {
+      "Ranking": 399,
+      "Title": "Gargantia on the Verdurous Planet (TV)",
+      "Rating": 7.59,
+      "Votes": 1403
+    },
+    {
+      "Ranking": 400,
+      "Title": "Hanasaku Iroha - Blossoms for Tomorrow (TV)",
+      "Rating": 8.31,
+      "Votes": 1269
+    },
+    {
+      "Ranking": 401,
+      "Title": "Redline (movie)",
+      "Rating": 8.03,
+      "Votes": 1304
+    },
+    {
+      "Ranking": 402,
+      "Title": "Blue Submarine No.6 (OAV)",
+      "Rating": 6.99,
+      "Votes": 1493
+    },
+    {
+      "Ranking": 402,
+      "Title": "Ichigo 100% (TV)",
+      "Rating": 6.77,
+      "Votes": 1541
+    },
+    {
+      "Ranking": 404,
+      "Title": "Genshiken 2 (TV)",
+      "Rating": 8.09,
+      "Votes": 1291
+    },
+    {
+      "Ranking": 405,
+      "Title": "Sword Art Online II (TV)",
+      "Rating": 7.43,
+      "Votes": 1404
+    },
+    {
+      "Ranking": 406,
+      "Title": "Wolf Children (movie)",
+      "Rating": 8.6,
+      "Votes": 1213
+    },
+    {
+      "Ranking": 407,
+      "Title": "Uta∽Kata (TV)",
+      "Rating": 7.8,
+      "Votes": 1333
+    },
+    {
+      "Ranking": 407,
+      "Title": "Seitokai Yakuindomo (TV)",
+      "Rating": 7.81,
+      "Votes": 1332
+    },
+    {
+      "Ranking": 409,
+      "Title": "Ceres, Celestial Legend (TV)",
+      "Rating": 7.19,
+      "Votes": 1444
+    },
+    {
+      "Ranking": 410,
+      "Title": "Gunbuster (OAV)",
+      "Rating": 8.14,
+      "Votes": 1267
+    },
+    {
+      "Ranking": 411,
+      "Title": "Texhnolyze (TV)",
+      "Rating": 7.56,
+      "Votes": 1362
+    },
+    {
+      "Ranking": 412,
+      "Title": "Natsume's Book of Friends (TV 2)",
+      "Rating": 8.58,
+      "Votes": 1191
+    },
+    {
+      "Ranking": 413,
+      "Title": "Gunslinger Girl: Il Teatrino (TV)",
+      "Rating": 7.81,
+      "Votes": 1308
+    },
+    {
+      "Ranking": 414,
+      "Title": "InuYasha the Movie 4: Fire on the Mystic Island",
+      "Rating": 7.3,
+      "Votes": 1397
+    },
+    {
+      "Ranking": 415,
+      "Title": "Hunter × Hunter (TV 2011)",
+      "Rating": 8.67,
+      "Votes": 1177
+    },
+    {
+      "Ranking": 416,
+      "Title": "Strike Witches (TV)",
+      "Rating": 7.48,
+      "Votes": 1363
+    },
+    {
+      "Ranking": 417,
+      "Title": "My Teen Romantic Comedy SNAFU (TV)",
+      "Rating": 7.86,
+      "Votes": 1296
+    },
+    {
+      "Ranking": 418,
+      "Title": "From the New World (TV)",
+      "Rating": 7.92,
+      "Votes": 1286
+    },
+    {
+      "Ranking": 419,
+      "Title": "Kekkaishi (TV)",
+      "Rating": 7.75,
+      "Votes": 1312
+    },
+    {
+      "Ranking": 420,
+      "Title": "GUNxSWORD (TV)",
+      "Rating": 7.35,
+      "Votes": 1381
+    },
+    {
+      "Ranking": 421,
+      "Title": "Desert Punk (TV)",
+      "Rating": 6.99,
+      "Votes": 1452
+    },
+    {
+      "Ranking": 422,
+      "Title": "Aria the Animation (TV)",
+      "Rating": 7.98,
+      "Votes": 1270
+    },
+    {
+      "Ranking": 423,
+      "Title": "ItaKiss (TV)",
+      "Rating": 7.79,
+      "Votes": 1298
+    },
+    {
+      "Ranking": 424,
+      "Title": "X (movie)",
+      "Rating": 5.6,
+      "Votes": 1800
+    },
+    {
+      "Ranking": 425,
+      "Title": "Tsubasa Tokyo Revelations (OAV)",
+      "Rating": 8.46,
+      "Votes": 1192
+    },
+    {
+      "Ranking": 426,
+      "Title": "Mobile Suit Gundam Wing: Endless Waltz Special Edition (movie)",
+      "Rating": 7.71,
+      "Votes": 1304
+    },
+    {
+      "Ranking": 427,
+      "Title": "Witchblade (TV)",
+      "Rating": 7.29,
+      "Votes": 1376
+    },
+    {
+      "Ranking": 428,
+      "Title": "(The) Secret World of Arrietty (movie)",
+      "Rating": 8.06,
+      "Votes": 1235
+    },
+    {
+      "Ranking": 429,
+      "Title": "Sekirei: Pure Engagement (TV)",
+      "Rating": 7.73,
+      "Votes": 1285
+    },
+    {
+      "Ranking": 430,
+      "Title": "A Certain Magical Index II (TV)",
+      "Rating": 7.36,
+      "Votes": 1348
+    },
+    {
+      "Ranking": 431,
+      "Title": "Dusk maiden of Amnesia (TV)",
+      "Rating": 7.63,
+      "Votes": 1291
+    },
+    {
+      "Ranking": 432,
+      "Title": "Mobile Fighter G Gundam (TV)",
+      "Rating": 6.83,
+      "Votes": 1441
+    },
+    {
+      "Ranking": 433,
+      "Title": "(The) Pet Girl of Sakurasou (TV)",
+      "Rating": 7.48,
+      "Votes": 1311
+    },
+    {
+      "Ranking": 434,
+      "Title": "Elemental Gelade (TV)",
+      "Rating": 7.42,
+      "Votes": 1320
+    },
+    {
+      "Ranking": 435,
+      "Title": "Peacemaker (TV)",
+      "Rating": 7.3,
+      "Votes": 1337
+    },
+    {
+      "Ranking": 436,
+      "Title": "Puni Puni Poemy (OAV)",
+      "Rating": 6.74,
+      "Votes": 1442
+    },
+    {
+      "Ranking": 437,
+      "Title": "Digimon Adventure 02 (TV)",
+      "Rating": 6.61,
+      "Votes": 1458
+    },
+    {
+      "Ranking": 438,
+      "Title": "Log Horizon (TV)",
+      "Rating": 8.1,
+      "Votes": 1184
+    },
+    {
+      "Ranking": 439,
+      "Title": "Denpa teki na Kanojo (OAV)",
+      "Rating": 8.24,
+      "Votes": 1162
+    },
+    {
+      "Ranking": 440,
+      "Title": "Nyan Koi! (TV)",
+      "Rating": 7.43,
+      "Votes": 1286
+    },
+    {
+      "Ranking": 441,
+      "Title": "Darker than Black - Kuro no Keiyakusha: Gaiden (OAV)",
+      "Rating": 7.74,
+      "Votes": 1229
+    },
+    {
+      "Ranking": 442,
+      "Title": "Night Raid 1931 (TV)",
+      "Rating": 7.56,
+      "Votes": 1251
+    },
+    {
+      "Ranking": 443,
+      "Title": "Akame ga KILL! (TV)",
+      "Rating": 7.46,
+      "Votes": 1265
+    },
+    {
+      "Ranking": 444,
+      "Title": "Yu-Gi-Oh! (TV 1/1998)",
+      "Rating": 5.41,
+      "Votes": 1741
+    },
+    {
+      "Ranking": 445,
+      "Title": "He Is My Master (TV)",
+      "Rating": 6.57,
+      "Votes": 1431
+    },
+    {
+      "Ranking": 446,
+      "Title": "xxxHOLiC: Kei (TV)",
+      "Rating": 8.31,
+      "Votes": 1130
+    },
+    {
+      "Ranking": 447,
+      "Title": "Death Parade (TV)",
+      "Rating": 7.89,
+      "Votes": 1189
+    },
+    {
+      "Ranking": 448,
+      "Title": "Clannad (movie)",
+      "Rating": 7.49,
+      "Votes": 1252
+    },
+    {
+      "Ranking": 449,
+      "Title": "Cromartie High School (TV)",
+      "Rating": 7.53,
+      "Votes": 1245
+    },
+    {
+      "Ranking": 450,
+      "Title": "Wagnaria!! (TV)",
+      "Rating": 7.75,
+      "Votes": 1209
+    },
+    {
+      "Ranking": 451,
+      "Title": "Air In Summer (special)",
+      "Rating": 7.82,
+      "Votes": 1194
+    },
+    {
+      "Ranking": 452,
+      "Title": "Banner of the Stars II (TV)",
+      "Rating": 8.16,
+      "Votes": 1144
+    },
+    {
+      "Ranking": 453,
+      "Title": "Angel Sanctuary (OAV)",
+      "Rating": 6.22,
+      "Votes": 1498
+    },
+    {
+      "Ranking": 454,
+      "Title": "Bubblegum Crisis: Tokyo 2040 (TV)",
+      "Rating": 7.03,
+      "Votes": 1326
+    },
+    {
+      "Ranking": 455,
+      "Title": "Spiral (TV)",
+      "Rating": 7.32,
+      "Votes": 1272
+    },
+    {
+      "Ranking": 456,
+      "Title": "Ōkami-san & Her Seven Companions (TV)",
+      "Rating": 7.56,
+      "Votes": 1229
+    },
+    {
+      "Ranking": 457,
+      "Title": "Chihayafuru (TV)",
+      "Rating": 8.42,
+      "Votes": 1102
+    },
+    {
+      "Ranking": 458,
+      "Title": "Tiger & Bunny (TV)",
+      "Rating": 8.23,
+      "Votes": 1128
+    },
+    {
+      "Ranking": 459,
+      "Title": "Bakuman. (TV)",
+      "Rating": 8.19,
+      "Votes": 1132
+    },
+    {
+      "Ranking": 460,
+      "Title": "Eden of the East: Paradise Lost (movie)",
+      "Rating": 7.84,
+      "Votes": 1182
+    },
+    {
+      "Ranking": 461,
+      "Title": "Please Twins! (OAV)",
+      "Rating": 7.18,
+      "Votes": 1290
+    },
+    {
+      "Ranking": 462,
+      "Title": "Madlax (TV)",
+      "Rating": 7.54,
+      "Votes": 1227
+    },
+    {
+      "Ranking": 463,
+      "Title": "Kanokon: The Girl Who Cried Fox (TV)",
+      "Rating": 6.61,
+      "Votes": 1393
+    },
+    {
+      "Ranking": 464,
+      "Title": "(The) Tower of Druaga: The Aegis of Uruk (TV)",
+      "Rating": 7.46,
+      "Votes": 1233
+    },
+    {
+      "Ranking": 465,
+      "Title": "Mobile Suit Gundam (TV)",
+      "Rating": 7.7,
+      "Votes": 1195
+    },
+    {
+      "Ranking": 466,
+      "Title": "(The) Slayers Try (TV)",
+      "Rating": 7.87,
+      "Votes": 1167
+    },
+    {
+      "Ranking": 467,
+      "Title": "Lucky Star OVA",
+      "Rating": 7.9,
+      "Votes": 1162
+    },
+    {
+      "Ranking": 468,
+      "Title": "Kokoro Connect (TV)",
+      "Rating": 7.71,
+      "Votes": 1187
+    },
+    {
+      "Ranking": 469,
+      "Title": "Dragon Ball Z: The Tree of Might (movie 3)",
+      "Rating": 6.09,
+      "Votes": 1499
+    },
+    {
+      "Ranking": 470,
+      "Title": "Dragon Ball Z: Dead Zone (movie 1)",
+      "Rating": 6.22,
+      "Votes": 1462
+    },
+    {
+      "Ranking": 471,
+      "Title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? (TV)",
+      "Rating": 7.52,
+      "Votes": 1204
+    },
+    {
+      "Ranking": 472,
+      "Title": "Magical Girl Lyrical Nanoha (TV)",
+      "Rating": 7.55,
+      "Votes": 1199
+    },
+    {
+      "Ranking": 473,
+      "Title": "Beyond the Boundary (TV)",
+      "Rating": 7.55,
+      "Votes": 1199
+    },
+    {
+      "Ranking": 474,
+      "Title": "Saiyuki (TV)",
+      "Rating": 7.28,
+      "Votes": 1242
+    },
+    {
+      "Ranking": 475,
+      "Title": "Waiting in the Summer (TV)",
+      "Rating": 7.91,
+      "Votes": 1141
+    },
+    {
+      "Ranking": 476,
+      "Title": "Descendants of Darkness (TV)",
+      "Rating": 7.16,
+      "Votes": 1256
+    },
+    {
+      "Ranking": 476,
+      "Title": "Prétear (TV)",
+      "Rating": 7.18,
+      "Votes": 1252
+    },
+    {
+      "Ranking": 478,
+      "Title": "Freezing (TV)",
+      "Rating": 7.22,
+      "Votes": 1243
+    },
+    {
+      "Ranking": 479,
+      "Title": "Mahoromatic: Something More Beautiful (TV)",
+      "Rating": 7.49,
+      "Votes": 1196
+    },
+    {
+      "Ranking": 480,
+      "Title": "Kämpfer (TV)",
+      "Rating": 5.99,
+      "Votes": 1493
+    },
+    {
+      "Ranking": 481,
+      "Title": "Jyu-Oh-Sei (TV)",
+      "Rating": 7.33,
+      "Votes": 1219
+    },
+    {
+      "Ranking": 482,
+      "Title": "Aria - The Natural (TV)",
+      "Rating": 8.12,
+      "Votes": 1099
+    },
+    {
+      "Ranking": 483,
+      "Title": "Bokura ga Ita (TV)",
+      "Rating": 7.75,
+      "Votes": 1149
+    },
+    {
+      "Ranking": 484,
+      "Title": "(The) Super Dimension Fortress Macross (TV)",
+      "Rating": 8.32,
+      "Votes": 1070
+    },
+    {
+      "Ranking": 485,
+      "Title": "Appleseed: Ex Machina (movie)",
+      "Rating": 7.49,
+      "Votes": 1186
+    },
+    {
+      "Ranking": 486,
+      "Title": "Memories (movie)",
+      "Rating": 7.81,
+      "Votes": 1135
+    },
+    {
+      "Ranking": 487,
+      "Title": "Ghost Hound (TV)",
+      "Rating": 7.44,
+      "Votes": 1184
+    },
+    {
+      "Ranking": 488,
+      "Title": "Pokémon 2000 - The Movie (movie 2)",
+      "Rating": 6.19,
+      "Votes": 1418
+    },
+    {
+      "Ranking": 489,
+      "Title": "Naruto Special: Battle at Hidden Falls. I Am the Hero! (OAV)",
+      "Rating": 6.47,
+      "Votes": 1355
+    },
+    {
+      "Ranking": 490,
+      "Title": "(The) Story of Saiunkoku (TV)",
+      "Rating": 8.09,
+      "Votes": 1083
+    },
+    {
+      "Ranking": 490,
+      "Title": "Princess Jellyfish (TV)",
+      "Rating": 8.09,
+      "Votes": 1083
+    },
+    {
+      "Ranking": 492,
+      "Title": "Kasimasi - Girl Meets Girl (TV)",
+      "Rating": 7.08,
+      "Votes": 1237
+    },
+    {
+      "Ranking": 492,
+      "Title": "Monthly Girls' Nozaki-kun (TV)",
+      "Rating": 8.17,
+      "Votes": 1072
+    },
+    {
+      "Ranking": 494,
+      "Title": "xxxHOLiC the Movie: A Midsummer Night's Dream",
+      "Rating": 7.78,
+      "Votes": 1123
+    },
+    {
+      "Ranking": 495,
+      "Title": "Bleach: The Sealed Sword Frenzy (OAV)",
+      "Rating": 6.98,
+      "Votes": 1249
+    },
+    {
+      "Ranking": 496,
+      "Title": "Genshiken (OAV)",
+      "Rating": 8.02,
+      "Votes": 1087
+    },
+    {
+      "Ranking": 497,
+      "Title": "Re:ZERO -Starting Life in Another World- (TV)",
+      "Rating": 8.42,
+      "Votes": 1035
+    },
+    {
+      "Ranking": 498,
+      "Title": "Nichijou - My Ordinary Life (TV)",
+      "Rating": 8.26,
+      "Votes": 1053
+    },
+    {
+      "Ranking": 499,
+      "Title": "My Hero Academia (TV)",
+      "Rating": 8.15,
+      "Votes": 1067
+    },
+    {
+      "Ranking": 500,
+      "Title": "Kyo kara Maoh! (TV)",
+      "Rating": 7.73,
+      "Votes": 1122
+    }
+  ]
