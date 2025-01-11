@@ -1,0 +1,23 @@
+.blind-button { 
+    height: 30%;
+    width: 50%;
+    font-size: 12rem !important;
+    margin-bottom: 50%;
+    background-color: rgba(70, 64, 64, 0.87) !important;
+}
+
+.next-button {
+    background-color: rgba(70, 64, 64, 0.87) !important;
+    margin: 35px !important;
+}
+
+
+@media (max-width: 768px) {
+
+    .blind-button {
+        height: 15%;
+        width: 90%;
+        font-size: 4rem !important;
+      
+    }
+}

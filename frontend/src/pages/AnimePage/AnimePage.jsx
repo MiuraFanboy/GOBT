@@ -5,7 +5,9 @@ import AnimeBlindtestPlayer from '../../components/organisms/AnimeBlindtestCompo
 const AnimePage = () => {
   return (
     <>
+
       <h1>GOBT</h1>
+
       <AnimeBlindtestPlayer />
     </>
   )

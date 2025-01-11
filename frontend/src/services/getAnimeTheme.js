@@ -2,6 +2,11 @@ import animeApi from './instance'
 import animeList from '../assets/data/topanime.json'
 
 const getAnimeThemes = async (limit) => {
+    // return {
+    //     "name": "Fullmetal Alchemist",
+    //     "theme": "OP3",
+    //     "link": "https://v.animethemes.moe/FullmetalAlchemist-OP3.webm"
+    // }
     const rng = Math.floor(Math.random()*limit);
     const response = await animeApi.getSong(animeList[rng].Title);
     let animeData = response.data.anime[0];

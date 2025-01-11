@@ -32,10 +32,10 @@ const AnimeBlindtestPlayer = () => {
     if (isError) return <div>Erreur lors du chargement des données.</div>;
     return (
         
-        <>
+        <div className='blindtest-player'>
             <VideoPlayerWrapper {...{anime}} blind={blind} />
-            <VideoPlayerButton blind={blind} onClick={handleClick} />
-        </>
+            <VideoPlayerButton style={{'height': '20%'}} blind={blind} onClick={handleClick} />
+        </div>
 
     )
 }
