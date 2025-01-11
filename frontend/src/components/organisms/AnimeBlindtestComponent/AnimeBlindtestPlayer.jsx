@@ -1,49 +1,42 @@
 import React, { Suspense, useEffect, useState } from 'react'
-import Button from '@mui/material/Button';
 import VideoPlayerWrapper from '../../molecules/VideoPlayerWrapper/VideoPlayerWrapper';
 import getAnimeThemes from '../../../services/getAnimeTheme';
 import './style.css'
+import { useQuery } from '@tanstack/react-query';
+import VideoPlayerButton from '../../molecules/VideoPlayerButton/VideoPlayerButton';
 
 const AnimeBlindtestPlayer = () => {
-    const [anime, setAnime] = useState();
     const [blind, setBlind] = useState(true);
 
-    const fetchAnime = async () => {
-        setAnime(undefined)
-        const data = await getAnimeThemes(100);  // Fetching data asynchronously
-        console.log(data)
-        setAnime(data);  // Updating state once the data is fetched
+    const {data: anime, isLoading, isError, refetch: refetchAnime} = useQuery({
+        queryKey: ['anime'], // Clé unique pour identifier cette requête
+        queryFn: async () => {
+            const data = await getAnimeThemes(100);
+            console.log(data);
+            return data;
+        }, // Appel à ton service
+        refetchOnWindowFocus: false, // Désactive le refetch automatique au focus
+    });
 
-    };
-
-    useEffect(()=>{
-        fetchAnime();
-    }, [])
-
-    const handleNext = async () => {
-        fetchAnime()
-        setBlind(true)
+    const handleClick = () => {
+        if(!blind){
+            refetchAnime()
+            setBlind(true)
+        }else{
+            setBlind(false)
+        }
     }
-    const showAnswer = () => {
-        setBlind(false)
-    }
 
+    // Gestion des états de chargement et d'erreur
+    if (isLoading) return <div>Loading...</div>;
+    if (isError) return <div>Erreur lors du chargement des données.</div>;
     return (
         
         <>
-            {anime === undefined ? (
-                <div>Loading...</div>
-            ) : (
-                <>
-                    <VideoPlayerWrapper {...{anime}} blind={blind} />
-                    {blind ? (
-                        <Button onClick={showAnswer} variant="contained">REVEAL</Button>
-                    ) : (
-                        <Button onClick={handleNext} variant="contained">NEXT</Button>
-                    )}
-                </>
-            )}
+            <VideoPlayerWrapper {...{anime}} blind={blind} />
+            <VideoPlayerButton blind={blind} onClick={handleClick} />
         </>
+
     )
 }
 

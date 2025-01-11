@@ -1,6 +1,5 @@
 import React from 'react'
 import VideoDisplay from '../../atoms/VideoDisplay/VideoDisplay'
-import { use } from 'react'
 
 const VideoPlayerWrapper = ({ anime, blind }) => {
   return (
