@@ -1,0 +1,12 @@
+.video-wrapper {
+    position: relative;
+    width: 100%; /* Le wrapper prend toute la largeur du parent */
+    max-width: 800px; /* Taille maximale du conteneur vidéo */
+    height: auto;
+
+}
+
+.hidden{
+    /* visibility: hidden; */
+    display: none;
+}
